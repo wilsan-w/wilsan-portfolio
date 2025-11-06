@@ -15,4 +15,4 @@ I'm Wilsan Waberi — a Computer Engineering student at UQO passionate about emb
 - Hosted via GitHub Pages
 
 ## 🌍 Live Site
-👉 [https://<yourusername>.github.io/wilsan-portfolio](https://<yourusername>.github.io/wilsan-portfolio)
+👉 [https://wilsan-w.github.io/wilsan-portfolio](https://wilsan-w.github.io/wilsan-portfolio)
